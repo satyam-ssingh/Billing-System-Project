@@ -52,7 +52,7 @@ It is useful for small shops, stores, and as a college or placement-level academ
 
   ---
 
-  ## Security Implementation
+## Security Implementation
 - Password protection with encrypted storage
 - XOR-based encryption for password and security answers
 - Hidden password input in console
@@ -61,7 +61,7 @@ It is useful for small shops, stores, and as a college or placement-level academ
 
   ---
 
-  ## Data Storage
+## Data Storage
 - All data is stored using file handling
 - Password data stored in encrypted format (Password.dat)
 - Billing records stored in text format (Bill_History.txt)
@@ -70,7 +70,7 @@ It is useful for small shops, stores, and as a college or placement-level academ
 
   ---
 
-  ## Validation and Error Handling
+## Validation and Error Handling
 - Input validation for names, phone numbers, quantity, and price
 - Prevents invalid or empty inputs
 - Handles file read/write errors safely
@@ -78,7 +78,7 @@ It is useful for small shops, stores, and as a college or placement-level academ
 
   ---
 
-  ## Key Learning Outcomes
+## Key Learning Outcomes
 - Practical implementation of C++ file handling
 - Cross-platform console programming (Windows & Linux)
 - Secure password handling in C++
