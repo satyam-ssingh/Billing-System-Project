@@ -40,3 +40,48 @@ It is useful for small shops, stores, and as a college or placement-level academ
 1. Open the project in Turbo C++, VS Code, or Code::Blocks  
 2. Compile the program using: g++ Billing_System.cpp -o Billing_System
 3. Billing_System
+
+---
+
+## System Requirements
+- Operating System: Windows / Linux
+- Compiler: GCC / G++
+- Minimum RAM: 2 GB
+- Disk Space: 50 MB
+- Terminal / Console Access
+
+  ---
+
+  ## Security Implementation
+- Password protection with encrypted storage
+- XOR-based encryption for password and security answers
+- Hidden password input in console
+- Account lock system after multiple failed login attempts
+- Password recovery using security questions
+
+  ---
+
+  ## Data Storage
+- All data is stored using file handling
+- Password data stored in encrypted format (Password.dat)
+- Billing records stored in text format (Bill_History.txt)
+- Billing summary exported to CSV for Excel usage
+- Bill numbers auto-managed using Last_Bill_Number.txt
+
+  ---
+
+  ## Validation and Error Handling
+- Input validation for names, phone numbers, quantity, and price
+- Prevents invalid or empty inputs
+- Handles file read/write errors safely
+- Protects system from accidental data corruption
+
+  ---
+
+  ## Key Learning Outcomes
+- Practical implementation of C++ file handling
+- Cross-platform console programming (Windows & Linux)
+- Secure password handling in C++
+- Real-world billing system design
+- Error handling and input validation
+
