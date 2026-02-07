@@ -38,4 +38,5 @@ It is useful for small shops, stores, and as a college or placement-level academ
 
 ## How to Run the Project
 1. Open the project in Turbo C++, VS Code, or Code::Blocks  
-2. Compile the program using:
+2. Compile the program using: g++ Billing_System.cpp -o Billing_System
+3. Billing_System
