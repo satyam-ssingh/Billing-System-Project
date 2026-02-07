@@ -20,7 +20,7 @@ It is useful for small shops, stores, and as a college or placement-level academ
 ## Technologies Used
 - Programming Language: C++  
 - Concepts: File Handling, Functions, Loops, Conditions  
-- Platform: Windows  
+- Platform: Windows + Linux  
 - Compiler: Turbo C++ / GCC  
 
 ---
