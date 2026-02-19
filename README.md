@@ -8,23 +8,23 @@ It is useful for small shops, stores, and as a college or placement-level academ
 ---
 
 ## Features
--Secure login system with password protection
--Bill generation with automatic bill number
--Stores bill history in text files
--Export billing data to CSV (Excel supported)
--Uses file handling for permanent data storage
--Simple console-based user interface
--Update existing bills
--Delete bills from system
--Search bills using phone number
--View bill details by bill number
--Track product sales and generate reports
--Maintain operator login history
--Records login history of users with date and time
--Allows checking and viewing login history records
--Password recovery using security questions
--Account lock system after multiple failed login attempts
--Input validation and error handling
+- Secure login system with password protection
+- Bill generation with automatic bill number
+- Stores bill history in text files
+- Export billing data to CSV (Excel supported)
+- Uses file handling for permanent data storage
+- Simple console-based user interface
+- Update existing bills
+- Delete bills from system
+- Search bills using phone number
+- View bill details by bill number
+- Track product sales and generate reports
+- Maintain operator login history
+- Records login history of users with date and time
+- Allows checking and viewing login history records
+- Password recovery using security questions
+- Account lock system after multiple failed login attempts
+- Input validation and error handling
 
 ---
 
