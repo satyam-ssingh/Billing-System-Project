@@ -1,9 +1,9 @@
 # Billing System in C++
 
 ## Project Description
-This is a Billing System project developed in C++ using file handling concepts for real-world billing operations.              
-The project is designed to generate customer bills, manage billing records, maintain login security, and store data permanently in files.  
-It is useful for small shops, stores, and as a college or placement-level academic project.
+This is a Billing System project developed in C++ using Object-Oriented Programming (OOP) and file handling concepts for real-world billing operations.
+The project is designed to generate customer bills, manage billing records, maintain login security, and store data permanently in files.
+It is useful for small shops, stores, and as a college or placement-level academic project.              
 
 ---
 
