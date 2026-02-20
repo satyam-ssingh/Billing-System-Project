@@ -113,12 +113,18 @@ It is useful for small shops, stores, and as a college or placement-level academ
   ---
 
 ## Data Storage
-- All data is stored using file handling
-- Password data stored in encrypted format (Password.dat)
-- Billing records stored in text format (Bill_History.txt)
-- Billing summary exported to CSV for Excel usage
-- Bill numbers auto-managed using Last_Bill_Number.txt
-
+- All data is stored using file handling to ensure permanent storage.
+- Password data is stored in encrypted format (Password.dat) for security.
+- Billing records are stored in text files (Bill_History.txt) for easy access and management.
+- Billing summary can be exported to CSV format for Excel compatibility.
+- Bill numbers are automatically generated and managed using Last_Bill_Number.txt.
+- Login history is maintained in a separate file (Login_History.txt) to track user activity.
+- Deleted records can be managed or logged for tracking purposes (Deleted_Bills.txt).
+- Data is structured in a readable format for easy parsing and retrieval.
+- File-based database system is used instead of external database.
+- Backup of important data can be created manually for data safety.
+- Error handling is implemented to prevent data loss during file operations.
+  
   ---
 
 ## Validation and Error Handling
