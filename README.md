@@ -29,10 +29,57 @@ It is useful for small shops, stores, and as a college or placement-level academ
 ---
 
 ## Technologies Used
-- Programming Language: C++  
-- Concepts: File Handling, Functions, Loops, Conditions  
-- Platform: Windows + Linux  
-- Compiler: Turbo C++ / GCC  
+- Programming Language: C++
+
+- Concepts:
+- Object-Oriented Programming (OOP)
+- File Handling
+- Functions & Modular Programming
+- Loops & Conditional Statements
+- Input Validation & Error Handling
+- Data Structures (Vector, Arrays)
+- Static Members
+- Encapsulation
+- Constructors & Destructors
+- Menu-driven Program Design
+
+- Security Features:
+- XOR-based Encryption
+- Password Protection System
+- Hidden Password Input (Masked Input)
+- Security Questions for Recovery
+- Account Lock System (Multiple Failed Attempts)
+- Basic Authentication System
+
+- Data Management:
+- Text File Handling
+- CSV File Handling (Excel Compatible)
+- Persistent Data Storage
+- Record Management System (Add, Update, Delete, Search)
+- File Parsing & Data Serialization
+
+- Platform:
+- Windows
+- Linux
+
+- Libraries:
+- iostream
+- fstream
+- vector
+- string
+- cstdlib
+- cstdio
+- conio.h (Windows)
+- termios (Linux)
+
+- Tools & Development Environment:
+- Visual Studio Code (VS Code)
+- Command Line Interface (CLI)
+- Git (Version Control - optional)
+
+- Compiler:
+- GCC (g++, MinGW for Windows)
+- Turbo C++
 
 ---
 
