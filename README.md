@@ -1,4 +1,4 @@
-# Billing System in C++
+# Billing Management System in C++
 
 ## Project Description
 This is a Billing Management System project developed in C++ using Object-Oriented Programming (OOP) and file handling concepts for real-world billing operations.
