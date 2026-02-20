@@ -31,7 +31,7 @@ It is useful for small shops, stores, and as a college or placement-level academ
 ## Technologies Used
 - Programming Language: C++
 
-- Concepts:
+## Concepts:
 - Object-Oriented Programming (OOP)
 - File Handling
 - Functions & Modular Programming
@@ -43,7 +43,7 @@ It is useful for small shops, stores, and as a college or placement-level academ
 - Constructors & Destructors
 - Menu-driven Program Design
 
-- Security Features:
+## Security Features:
 - XOR-based Encryption
 - Password Protection System
 - Hidden Password Input (Masked Input)
@@ -51,18 +51,18 @@ It is useful for small shops, stores, and as a college or placement-level academ
 - Account Lock System (Multiple Failed Attempts)
 - Basic Authentication System
 
-- Data Management:
+## Data Management:
 - Text File Handling
 - CSV File Handling (Excel Compatible)
 - Persistent Data Storage
 - Record Management System (Add, Update, Delete, Search)
 - File Parsing & Data Serialization
 
-- Platform:
+## Platform:
 - Windows
 - Linux
 
-- Libraries:
+## Libraries:
 - iostream
 - fstream
 - vector
@@ -72,12 +72,12 @@ It is useful for small shops, stores, and as a college or placement-level academ
 - conio.h (Windows)
 - termios (Linux)
 
-- Tools & Development Environment:
+## Tools & Development Environment:
 - Visual Studio Code (VS Code)
 - Command Line Interface (CLI)
 - Git (Version Control - optional)
 
-- Compiler:
+## Compiler:
 - GCC (g++, MinGW for Windows)
 - Turbo C++
 
